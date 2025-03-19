@@ -8,3 +8,4 @@ import skatecoinrush.composeapp.generated.resources.chewy_regular
 
 @Composable
 fun GameFontFamily() = FontFamily(Font(Res.font.chewy_regular))
+
